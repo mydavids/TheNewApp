@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:1.2.3.RELEASE">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE/spring-boot-starter-data-jpa-1.2.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE/spring-boot-starter-data-jpa-1.2.3.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE" />
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE/spring-boot-starter-data-jpa-1.2.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/1.2.3.RELEASE" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven: org.testng:testng:6.8.21">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21/testng-6.8.21.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21/testng-6.8.21-javadoc.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21" />
+      <root url="file://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21/testng-6.8.21-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/testng/testng/6.8.21" recursive="false" type="SOURCES" />
+  </library>
+</component>
