@@ -20,7 +20,7 @@ public class StaffServiceImpl implements StaffService {
 
     @Override
     public Staff findById(String id){
-        return repository.findOne(id);
+        return repository.findBystaffCode(id);
 
     }
 

@@ -17,12 +17,33 @@ import java.util.List;
 public class SiteServiceImpl implements SiteService {
     @Autowired
     SiteRepository repository;
-    public List<Site> getSites(){
+
+    @Override
+    public Site findById(String id){
+        return repository.findBysiteCode(id);
+    }
+
+    @Override
+    public Site save(Site entity){
+        return repository.save(entity);
+    }
+
+    @Override
+    public Site update(Site entity){
+        return repository.save(entity);
+    }
+
+    @Override
+    public Site delete(Site entity){
+        return repository.delete(entity);
+    }
+
+    public List<Site> findAll(){
         List<Site> allSites = new ArrayList<Site>();
 
         Iterable<Site> sites = repository.findAll();
-        for (Site site : sites){
-            allSites.add(site);
+        for (Site someSites : sites){
+            allSites.add(someSites);
         }
         return allSites;
     }
