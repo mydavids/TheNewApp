@@ -16,7 +16,9 @@ public class HomePage {
     private SiteService service;
     @RequestMapping(value = "home", method = RequestMethod.GET)
     public String Index(){
-        return "This is a Home Page";
+        return "<h1>Welcome to the CONSTRUCTION MANAGEMENT APPLICATION</h1>" +
+                "<p>This application corresponds to the Technical Programming 2 course</p>" +
+                "<p>I am really happy if I see this page</p>";
     }
 
     /*@RequestMapping(value = "/site", method = RequestMethod.GET)
